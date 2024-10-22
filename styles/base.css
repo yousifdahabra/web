@@ -1,0 +1,9 @@
+.primary-btn {
+  width: 200px;
+  height: 50px;
+  background-color: #607d1c;
+}
+
+.fixed-width {
+  width: 300px;
+}
